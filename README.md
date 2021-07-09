@@ -9,4 +9,6 @@ notes of my studies in these repositories (in spanish):
 
 🎓[Udemy training](https://github.com/GreenyHat/UdemyProject)
 
- 
+
+ #### Credits:
+[Juan Gabriel Gomila Salas, Frogames SL](https://www.udemy.com/course/unity2020/)

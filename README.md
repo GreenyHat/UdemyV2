@@ -8,3 +8,8 @@ notes of my studies in these repositories (in spanish):
 🚸[Docs and practices](https://github.com/GreenyHat/UnityDevelopment1.1)
 
 🎓[Udemy training](https://github.com/GreenyHat/UdemyProject)
+
+
+ #### Credits:
+[Juan Gabriel Gomila Salas, Frogames SL](https://www.udemy.com/course/unity2020/)
+

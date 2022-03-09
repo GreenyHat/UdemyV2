@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour
 /*PONEMOS FOLLOW PLAYER PORQUE NOS PUEDE VALER PARA LA CÁMARA, UNA MASCOTA O CUALQUIER COSA QUE NOS SIGA
- * SEA CAMARA, HUMO, LO QUE SEA....
+ * SEA CAMARA, HUMO, LO QUE SEA.
  */
 {
     public GameObject gObject;
